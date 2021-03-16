@@ -1,6 +1,8 @@
 # tugas6_belanja
 
-A new Flutter project.
+Hasil Run di HandPhone
+
+![WhatsApp Video 2021-03-16 at 16 35 26](https://user-images.githubusercontent.com/70736299/111287500-dce19900-8675-11eb-8685-bb34687140d3.gif)
 
 ## Getting Started
 
